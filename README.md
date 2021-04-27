@@ -1,24 +1,13 @@
-# README
+Following the instructions of Zayne through the mini course, i made a tiny course of react with rails.
+Rails 6.0.3.4
+Ruby 2.7.3
+React JS
+Axios
+Postgresql
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Over this course i learned how to connect the rails Backend with React showing the data through the frontend.
 
-Things you may want to cover:
+Highly recomment this course for beginners
+https://www.youtube.com/watch?v=B0SxxHAImhc
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

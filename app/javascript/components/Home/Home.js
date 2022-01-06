@@ -53,7 +53,9 @@ class Home extends Component {
            <div>
                <Jumbotron />
                <Table handleVideoChange={this.handleVideoChange.bind(this)} course_modules={this.state.course_modules}/>
+            <p>hello wordl</p>
            </div>
+
         )
     }
 }
